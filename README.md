@@ -1,2 +1,3 @@
-# timer_support
-Support for Timer application.
+# Timer & stopwatch
+
+Create an issue for help.
